@@ -6,7 +6,7 @@ Algorithmic Nifty 50 market analytics platform — built solo.
 
 ---
 
-•🚀 What We Built
+## 🚀 What We Built
 
 A full-stack production app serving live Nifty 50 analytics to retail traders — option chain, PCR, MaxPain, GEX, IV Greeks, FII/DII flows, and a 92-factor algorithmic signal engine.
 
