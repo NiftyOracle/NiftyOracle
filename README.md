@@ -1,4 +1,4 @@
-NiftyOracle
+## NiftyOracle
 
 Algorithmic Nifty 50 market analytics platform — built solo.
 
@@ -24,18 +24,18 @@ A full-stack production app serving live Nifty 50 analytics to retail traders �
 | CI/CD | GitHub Actions (signed APK/AAB) |
 | Data | Angel One SmartAPI (NSE licensed) |
 
-•📱 NiftyOracle App
+## 📱 NiftyOracle App
 
 > Algorithmic Nifty 50 analytics —
 > 92 factors, zero AI.
 > Available on Google Play Store.
 
-•🏗️ Architecture
+## 🏗️ Architecture
 
 AWS EC2 → Cloudflare Workers →
 Firebase → Android App
 
-•📜 Legal
+## 📜 Legal
 
 MSME Registered · UDYAM-MH-04-0301682
 Chhatrapati Sambhajinagar, Maharashtra
