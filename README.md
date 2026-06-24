@@ -38,4 +38,5 @@ Firebase → Android App
 ## 📜 Legal
 
 MSME Registered · UDYAM-MH-04-0301682
+
 Chhatrapati Sambhajinagar, Maharashtra
